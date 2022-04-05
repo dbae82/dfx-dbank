@@ -8,7 +8,7 @@ actor DBank {
   stable var startTime = Time.now();
   Debug.print(debug_show(startTime));
 
-  // currentValue := 100;
+  currentValue := 300;
 
   let id = 43728947382;
   // Debug.print(debug_show(id));
